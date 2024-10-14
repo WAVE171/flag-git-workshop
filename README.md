@@ -53,12 +53,14 @@ To start with the exercises:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/git-workshop-flag.git```
+   git clone https://github.com/your-username/git-workshop-flag.git
+   ```
    To the folder you want
 
 2. Navigate to the workshop directory:
    ```bash
-   cd git-workshop-flag```
+   cd git-workshop-flag
+   ```
 
 3. Feel free to experiment there. You should create your own branch for simplicity
 
