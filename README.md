@@ -10,8 +10,6 @@ Welcome to the GIT Workshop repository for FLAG School! This repository contains
 - [Workshop Outline](#workshop-outline)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -40,3 +38,30 @@ Before attending the workshop, please ensure you have the following:
 2. **Verify Installation**:
    ```bash
    git --version
+
+## Workshop Outline
+
+1. **Introduction to Git**
+2. **Getting Started**
+3. **Basic Commands**
+4. **Branching and Merging**
+5. **Collaboration**
+
+## Usage
+
+To start with the exercises:
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/git-workshop-flag.git```
+   To the folder you want
+
+2. Navigate to the workshop directory:
+   ```bash
+   cd git-workshop-flag```
+
+3. Feel free to experiment there. You should create your own branch for simplicity
+
+## Contributing
+
+We welcome contributions! If you have suggestions, please fork the repository and submit a pull request.
