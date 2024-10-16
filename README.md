@@ -1,6 +1,6 @@
 # GIT Workshop at FLAG School
 
-Welcome to the GIT Workshop repository for FLAG School! This repository contains resources, exercises, and examples to help you understand and effectively use Git for version control.
+Welcome to the GIT Workshop class! This repository will be your go-to during the duration of the course.
 
 ## Table of Contents
 
@@ -25,6 +25,7 @@ Before attending the workshop, please ensure you have the following:
 ## Installation
 
 1. **Install Git**:
+
    - For Windows, download from [git-scm.com](https://git-scm.com/download/win).
    - For macOS, you can install via Homebrew:
      ```bash
@@ -38,6 +39,7 @@ Before attending the workshop, please ensure you have the following:
 2. **Verify Installation**:
    ```bash
    git --version
+   ```
 
 ## Workshop Outline
 
@@ -52,12 +54,15 @@ Before attending the workshop, please ensure you have the following:
 To start with the exercises:
 
 1. Clone this repository:
+
    ```bash
    git clone https://github.com/your-username/git-workshop-flag.git
    ```
+
    To the folder you want
 
 2. Navigate to the workshop directory:
+
    ```bash
    cd git-workshop-flag
    ```
