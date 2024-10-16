@@ -1,28 +1,37 @@
-# GIT Workshop at FLAG School
+git add .
+git commit -m "Descrição do commit"
+git push origin nome-do-branch
 
-Welcome to the GIT Workshop repository for FLAG School! This repository contains resources, exercises, and examples to help you understand and effectively use Git for version control.
+git push origin nome-do-branch
+``
 
-## Table of Contents
+git push origin nome-do-branch
 
-- [Introduction](#introduction)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Workshop Outline](#workshop-outline)
-- [Usage](#usage)
-- [Contributing](#contributing)
+git push origin nome-do-
 
-## Introduction
+git push origin nome
 
-This repository is designed to provide students with hands-on experience in using Git. We will cover the basics of version control, branching, merging, and collaboration using Git and GitHub.
+git 2. Cri
+Se o seu objetivo é trabalhar com spritesusandobibliotecasprites.js não existePixiJS ,Phaser , ou
 
-## Prerequisites
+Aqu
 
-Before attending the workshop, please ensure you have the following:
+HTML->
 
-- Basic understanding of command-line interfaces
-- A GitHub account (create one at [github.com](https://github.com))
+Copiar código
 
-## Installation
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+       
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+   
+<title>Sprite Example</title>
+</head>
+</html>
 
 1. **Install Git**:
 
