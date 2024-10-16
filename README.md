@@ -4,12 +4,12 @@ Welcome to the GIT Workshop repository for FLAG School! This repository contains
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Workshop Outline](#workshop-outline)
-- [Usage](#usage)
-- [Contributing](#contributing)
+- [GIT Workshop at FLAG School](#git-workshop-at-flag-school)
+	- [Table of Contents](#table-of-contents)
+	- [Introduction](#introduction)
+	- [Prerequisites](#prerequisites)
+	- [Installation](#installation)
+	- [Contributing](#contributing)
 
 ## Introduction
 
@@ -67,3 +67,5 @@ To start with the exercises:
 ## Contributing
 
 We welcome contributions! If you have suggestions, please fork the repository and submit a pull request.
+
+202410161707
