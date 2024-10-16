@@ -1,45 +1,62 @@
-# GIT Workshop at FLAG School
+git add .
+git commit -m "Descrição do commit"
+git push origin nome-do-branch
 
-Welcome to the GIT Workshop repository for FLAG School! This repository contains resources, exercises, and examples to help you understand and effectively use Git for version control.
+git push origin nome-do-branch
+``
 
-## Table of Contents
+git push origin nome-do-branch
 
-- [Introduction](#introduction)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Workshop Outline](#workshop-outline)
-- [Usage](#usage)
-- [Contributing](#contributing)
+git push origin nome-do-
 
-## Introduction
+git push origin nome
 
-This repository is designed to provide students with hands-on experience in using Git. We will cover the basics of version control, branching, merging, and collaboration using Git and GitHub.
+git 2. Cri
+Se o seu objetivo é trabalhar com spritesusandobibliotecasprites.js não existePixiJS ,Phaser , ou
 
-## Prerequisites
+Aqu
 
-Before attending the workshop, please ensure you have the following:
+HTML->
 
-- Basic understanding of command-line interfaces
-- A GitHub account (create one at [github.com](https://github.com))
+Copiar código
 
-## Installation
+<!DOCTYPE html>
+
+<
+
+<html lang="en">
+<head>
+    
+<meta charset="UTF-8">
+    
+    <
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+   
+<title>Sprite Example</title>
+    
+  
+<style>
+        ca
+</style>
 
 1. **Install Git**:
 
-   - For Windows, download from [git-scm.com](https://git-scm.com/download/win).
-   - For macOS, you can install via Homebrew:
-     ```bash
-     brew install git
-     ```
-   - For Linux, use your package manager:
-     ```bash
-     sudo apt-get install git
-     ```
+    - For Windows, download from [git-scm.com](https://git-scm.com/download/win).
+    - For macOS, you can install via Homebrew:
+        ```bash
+        brew install git
+        ```
+    - For Linux, use your package manager:
+        ```bash
+        sudo apt-get install git
+        ```
 
 2. **Verify Installation**:
-   ```bash
-   git --version
-   ```
+    ```bash
+    git --version
+    ```
 
 ## Workshop Outline
 
@@ -55,17 +72,17 @@ To start with the exercises:
 
 1. Clone this repository:
 
-   ```bash
-   git clone https://github.com/your-username/git-workshop-flag.git
-   ```
+    ```bash
+    git clone https://github.com/your-username/git-workshop-flag.git
+    ```
 
-   To the folder you want
+    To the folder you want
 
 2. Navigate to the workshop directory:
 
-   ```bash
-   cd git-workshop-flag
-   ```
+    ```bash
+    cd git-workshop-flag
+    ```
 
 3. Feel free to experiment there. You should create your own branch for simplicity
 
