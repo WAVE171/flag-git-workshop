@@ -1,3 +1,3 @@
 ### Nome
-- Habilidades: [Lista de habilidades]
-- Interesse: [Exemplo de interesse]
+- Habilidades: [Muito habilidosa]
+- Interesse: [Vários interesses]
